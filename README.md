@@ -6,30 +6,21 @@ Welcome to Mangata & Gallo Jewelry – where elegance meets craftsmanship. This 
 
 ## Table of Contents
 - [Preview](#preview)
-- [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
+- [Features](#features)
 - [License](#license)
 
 ## Preview
 ![Mangata & Gallo Jewelry](preview.png)
+
+## Usage
+Live Preview: [View on Vercel](https://meta-project-course-3-n4q7rfm3i-asadamyn.vercel.app/)
 
 ## Features
 - **Responsive Design:** The website is designed to be fully responsive, ensuring a seamless experience across various devices.
 - **Navigation:** Easy navigation with a clean and intuitive menu structure for Home, Engagements, Weddings, and Anniversaries.
 - **Promo Section:** A visually appealing promotional section showcasing exquisite jewelry pieces.
 - **Latest Products:** Highlighting the latest jewelry products with images, names, and prices.
-
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/asadali2468/meta-project-course-3.git
-    ```
-
-2. Open the project in your preferred code editor.
-
-## Usage
-Open the `index.html` file in a web browser to explore the Mangata & Gallo Jewelry website.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
